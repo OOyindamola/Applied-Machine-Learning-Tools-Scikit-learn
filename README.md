@@ -1,2 +1,2 @@
 # Applied-Machine-Learning-Tools-Scikit-learn
-Classification algorithms using Scikit Learn
+Supervised Learning Classification and Unsupervised Clustering algorithms using Scikit Learn
